@@ -1,16 +1,16 @@
-## Hi there 👋
+## NikApng 🚀
 
-<!--
-**NikApng/NikApng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Пишу интерфейсы на React + TS и собираю проекты, которые не стыдно показывать.
 
-Here are some ideas to get you started:
+Focus:
+• скорость интерфейсов  
+• чистая архитектура  
+• UX как у больших ребят
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Мои проекты:
+— DogLead: e-commerce сайт для бизнеса  
+— RedFax: мессенджер (React + Redux + WebRTC)  
+— TZ-list: таск-менеджер с погодой, темами и досками  
+— Mini Market: учебная витрина
+
+Если проект заставляет голову кипеть — мне туда.
